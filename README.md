@@ -1,3 +1,3 @@
 # Projects
 
-These are some of the code I built with Python.
+This repository includes some code I built with Python.
