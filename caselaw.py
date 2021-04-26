@@ -1,3 +1,6 @@
+# Run the below to graph the historical frequency of words present in cases stored in the CaseLaw API (https://case.law/). 
+# You may search keywords based on the race and the crime you would like to inquire about.
+
 import requests
 import numpy as np
 import pandas as pd
